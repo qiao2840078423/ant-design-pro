@@ -51,4 +51,3 @@ $ cd myapp && npm install
 ```
 npm run start
 ```
-
